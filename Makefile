@@ -15,7 +15,7 @@ CC	= gcc
 
 RM	= rm -rf
 
-NAME	=	my_app
+NAME	=	compiled-app
 
 all:		$(NAME)
 		@echo        "|-----------------------|"
