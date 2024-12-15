@@ -5,7 +5,7 @@
 ## Makefile
 ##
 
-SRCS	=	main.c
+SRCS	=	app/main.c
 
 OBJS	=	$(CLIENT_SRCS:.c=.o)
 
